@@ -1,2 +1,3 @@
-# OOPHelloApp
-OOPHelloApp to demonstrate a simple Java application
+# HelloApp
+
+Hello App Use Case begins with simple display of Hello World then goes on to display user name then to displaying the names from the command line arguments and then from standard input and then managing the names in a collection with options to list and remove names and then refactoring the code to separate concerns into different methods and classes and finally adding persistence to the name list across runs. The final use cases involve enhancing the display of names by showing them in banner format.
